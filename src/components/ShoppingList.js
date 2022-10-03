@@ -1,4 +1,4 @@
-
+import React, { useState } from "react";
 import Item from "./Item";
 
 function ShoppingList({ items }) {
@@ -32,4 +32,3 @@ function ShoppingList({ items }) {
 }
 
 export default ShoppingList;
-Footer
